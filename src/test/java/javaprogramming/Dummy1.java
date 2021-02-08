@@ -11,6 +11,7 @@ public class Dummy1
 		{  
 	    System.out.print(ch[i]);  
 		}
+		'jkjqwhehwl
 
 	}
 
